@@ -1,6 +1,2 @@
-# testing-utn
-Tecnicatura Universitaria en Programación 
-Universidad Tecnológica Nacional
-2025
 
-Primer cambio de mi repo local
+Este es un cambio en mi rama personal
